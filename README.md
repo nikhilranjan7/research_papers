@@ -1,7 +1,3 @@
 - [x] Introduction to the Issue on Data Science: Machine Learning for Audio Signal Processing 
-    - [ ] Hidden Markov Model
-    - [x] Linear time invariant model
-- [ ] Deep Speech
-- [ ] Voice Activity Detection for Transient Noisy Environment Based on Diffusion Nets
-- [ ] Finnish Speech to Text
-- [ ] SEGAN: Speech Enhancement Generative Adversarial Network
+- [ ] A Knowledge-Grounded Neural Conversation Model
+
